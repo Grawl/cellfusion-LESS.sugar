@@ -43,5 +43,5 @@ mixin.definition.less {
 }
 
 mixin.less, mixin.less > punctuation {
-	color: #d6cb58;
+	color: purple;
 }
